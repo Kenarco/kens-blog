@@ -6,7 +6,7 @@ featured: true
 tags: [blog]
 ---
 
-Those of you that have been following my blog will notic some changes to the formmat of my blog. The main change is that I started using Astro rather than eleventy. I believe this will allow more flexibility in tis blog with adding new things.
+Those of you that have been following my blog will notice some changes to the formmat of my blog. The main change is that I started using Astro rather than eleventy. I believe this will allow more flexibility in this blog with adding new things.
 
 Probably the first thing you notice is the gallery page is gone. The pictures that was on the gallery has been moved to introducing my family blog post. I made this a featured blog post and I think it will remain featured for the foreseeable future.
 
