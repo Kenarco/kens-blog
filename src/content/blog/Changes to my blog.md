@@ -3,7 +3,6 @@ title: Changes to my blog
 description: changed my blog to use astro rather than eleventy
 pubDatetime: 2023-01-18T09:40:00Z
 featured: true
-draft: false
 tags: [blog]
 ---
 
