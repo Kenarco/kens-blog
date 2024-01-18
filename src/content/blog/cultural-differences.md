@@ -1,7 +1,7 @@
 ---
 title: Cultural differences
 description: About cultural differences 
-pubDatetime: 2023-08-10T02:00:00
+pubDatetime: 2023-08-10T02:00:00Z
 tags:
 	- blog
 ---

@@ -2,6 +2,7 @@
 title: Changes to my blog
 description: changed my blog to use astro rather than eleventy
 pubDatetime: 2024-01-18T09:40:00Z
+author: Ken Stevens
 featured: true
 tags: [blog]
 ---

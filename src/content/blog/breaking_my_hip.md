@@ -1,7 +1,7 @@
 ---
 title: My journey of breaking a hip
 description: My hip breaking journey
-pubDatetime: 2023-08-25T07:00:00
+pubDatetime: 2023-08-25T07:00:00Z
 tags:
 	- blog
 ---
