@@ -1,7 +1,7 @@
 ---
 title: How I ended up in the Philippines
 description: How I ended up in the Philippines - My Introduction to blogging
-pubDatetime: 2023-08-01T08:00:00Z
+pubDatetime: 2023-08-01T08:00:00+08:00
 tags:
   - Blog
 ---

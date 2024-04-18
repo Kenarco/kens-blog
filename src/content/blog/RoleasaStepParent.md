@@ -1,9 +1,8 @@
 ---
 title: Role as a Step Parent
 description: Step Parent
-pubDatetime: 2023-08-15T10:00:00Z
-tags:
-	- blog
+pubDatetime: 2023-08-15T10:00:00+08:00
+tags: ["blog", "step-parent"]
 ---
 
 Today I will talk about my role as step-parent. When I first came to the Philippines my wife expressed interest in me helping her discipline the girls. I really wasn't comfortable with that task, but because my wife expected it of me, I took it on anyway.

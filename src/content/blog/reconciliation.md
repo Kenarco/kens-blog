@@ -1,7 +1,7 @@
 ---
 title: Reconciliation
 description: Reconciliation, a devotional
-pubDatetime: 2023-08-21T02:00:00Z
+pubDatetime: 2023-08-21T14:00:00+08:00
 featured: true
 tags: [blog, devotion]
 ---

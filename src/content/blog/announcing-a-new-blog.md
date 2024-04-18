@@ -1,7 +1,7 @@
 ---
 title: Announcing a new blog
 description: Announcement
-pubDatetime: 2024-02-27T13:15:00Z
+pubDatetime: 2024-02-27T13:15:00+08:00
 tags:
   - Blog
   - Announcement

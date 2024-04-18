@@ -1,9 +1,8 @@
 ---
 title: Late Birthday post
 description: A late birthday post
-pubDatetime: 2023-12-07T01:00:00Z
-tags:
-	- blog
+pubDatetime: 2023-12-07T13:00:00+08:00
+tags: ["blog"]
 ---
 
 This entry should have been posted four days ago, on December 3rd. That is the actual

@@ -1,7 +1,7 @@
 ---
 title: About My Philippine Family
 description: Introducing my Filipino Family
-pubDatetime: 2023-08-04T08:00:00Z
+pubDatetime: 2023-08-04T08:00:00+08:00
 featured: true
 author: Ken Stevens
 tags:
