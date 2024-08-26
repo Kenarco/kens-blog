@@ -5,7 +5,7 @@ pubDatetime: 2024-02-27T13:15:00+08:00
 tags:
   - Blog
   - Announcement
-featured: true
+featured: false
 ---
 
 Announcement: This is an announcemrnt of a second blog. Originally. I was going to use this blog to hold both personal blogs and devotions. But I changed my mind. I decided to start a second blog dedicated to devotionals/Bible Study.
